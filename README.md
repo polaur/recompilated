@@ -10,6 +10,13 @@ git clone https://github.com/polaur/recompilated.git
 
 ```
 
+or
+
+```
+git clone https://gitlab.com/polaur/recompilated.git
+
+```
+
 # Install:
 
 
